@@ -20,3 +20,5 @@
 
 #### 使用说明
     1.  python ddns_aliyun.py
+        main方法内默认10秒执行一次，按自己需求修即可
+
